@@ -55,3 +55,4 @@ export const getFlights= async(req,res,next)=>{
         next(err)
     }
 }
+
